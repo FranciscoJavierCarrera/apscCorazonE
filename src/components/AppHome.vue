@@ -39,11 +39,11 @@ export default {
   data() {
     return {
       images: [
-        'public/img/eworu7qowigjehr581y314b.jpg',
-        'public/img/dsfiua9s8y3qwrni7t0127519i3wjnfkjshf9.jpg',
-        'public/img/134p8uerwkgh2354987134ndfivbu247hpg.jpg',
-        'public/img/health-4385852_1280.jpg',
-        'public/img/veterinarian-4906607_1280.jpg',
+        '/img/eworu7qowigjehr581y314b.jpg',
+        '/img/dsfiua9s8y3qwrni7t0127519i3wjnfkjshf9.jpg',
+        '/img/134p8uerwkgh2354987134ndfivbu247hpg.jpg',
+        '/img/health-4385852_1280.jpg',
+        '/img/veterinarian-4906607_1280.jpg',
       ],
       aboutItems: [
         { title: 'Misión', text: 'Proteger y cuidar a los animales de compañía en nuestra comunidad.' },
